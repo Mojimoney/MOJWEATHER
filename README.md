@@ -11,7 +11,7 @@ Interactive maps and radar imagery
 Installation
 To install the weather app, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/weather-app.git
+Clone the repository: git clone https://github.com/Mojimoney/weather-app.git
 Install dependencies: npm install
 Start the app: npm start
 Usage
