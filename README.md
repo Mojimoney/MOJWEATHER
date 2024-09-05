@@ -15,7 +15,7 @@ Clone the repository: git clone https://github.com/your-username/weather-app.git
 Install dependencies: npm install
 Start the app: npm start
 Usage
-Open the app in your web browser: http://localhost:3000
+Open the app in your web browser: https://mojimoney.github.io/MOJWEATHER/Weather.html
 Search for a location by city or zip code
 View current and forecasted weather conditions
 Customize units and settings to your preference
